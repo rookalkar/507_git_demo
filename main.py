@@ -1,1 +1,4 @@
-print("Hi there, Innocent.")
+def greet(name):
+    print("Hi there, " + name)
+
+greet("Innocent")
