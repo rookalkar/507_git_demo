@@ -1,4 +1,4 @@
-def bob_says(name):
-    print("Hi there, " + name)
+def bob_says(greeting, name):
+    print(greeting, name)
 
-bob_says("Innocent")
+bob_says("hello","Innocent")
