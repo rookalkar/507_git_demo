@@ -1,4 +1,4 @@
-def greet(greeting, name):
+def bob_says(greeting, name):
     print(greeting, name)
 
-greet("hello","Innocent")
+bob_says("hello","Innocent")
